@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2" id="2">
+	<SimpleField name="Koridor" type="string"></SimpleField>
+	<SimpleField name="Keterangan" type="string"></SimpleField>
+	<SimpleField name="Panjang" type="float"></SimpleField>
+	<SimpleField name="Sisi" type="string"></SimpleField>
+</Schema>
+<Folder><name>2</name>
+  <Placemark>
+	<name>7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">1,2,3,8</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">269.697669883321</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.820332216927,-6.16484334401423,0 106.820450396,-6.16535349699995,0 106.820578699,-6.16590418299995,0 106.820693828517,-6.1664330266255,0 106.820776288383,-6.16678187168609,0 106.820882407764,-6.16721906722638,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">1,2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">433.736446065044</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.821070546406,-6.16782269706001,0 106.82127426,-6.16879859699998,0 106.821358164,-6.16915802699998,0 106.821433605518,-6.16953048482291,0 106.82150234001,-6.16985653305421,0 106.821565787233,-6.17016319463392,0 106.821840725201,-6.17060027550616,0 106.822006392951,-6.17076946810186,0 106.822150911626,-6.1708928377029,0 106.822334203605,-6.17099153338373,0 106.822542169504,-6.17107612968158,0 106.822690213025,-6.17111490298476,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">1,2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">294.604396383972</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.82311671936,-6.17161190623464,0 106.823109669669,-6.17188155693404,0 106.823044460022,-6.17427492719411,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">1,2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">625.541543388752</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.823040935177,-6.17462388692275,0 106.822995112182,-6.17656255208186,0 106.822931664958,-6.17877086794038,0 106.82291404073,-6.17958863215295,0 106.822947909,-6.17991586399995,0 106.823057439,-6.18026000299994,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">1,2,3,8</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">288.521707134841</SimpleData>
+		<SimpleData name="Sisi">Barat</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.820633906139,-6.16732128775295,0 106.820531400153,-6.16690805200782,0 106.820428583875,-6.16638984726514,0 106.820336937886,-6.16598977727322,0 106.820164220444,-6.1652566093585,0 106.820065524763,-6.16477546791446,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">195.77023916469</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.908280741281,-6.18141670671026,0 106.907251486373,-6.18083510719029,0 106.906715709846,-6.18059541769115,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">985.472647912981</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.906430197354,-6.18047557294158,0 106.906007215885,-6.1803275294274,0 106.905534886578,-6.1801407126119,0 106.904456283832,-6.17972830567955,0 106.903162665506,-6.17922425276225,0 106.901523612313,-6.17858273086749,0 106.900977261249,-6.17845936127234,0 106.900487307714,-6.17841706312544,0 106.899517975181,-6.17833246683162,0 106.898435847589,-6.17824787053781,0 106.897901621,-6.1782192699999,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">410.274091256676</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.897553384,-6.17820210399998,0 106.896757139883,-6.17818706695163,0 106.896492776465,-6.17813066942242,0 106.89625393,-6.17802759799997,0 106.895731409821,-6.17755259474803,0 106.895068738853,-6.17693927161787,0 106.894503001138,-6.17641406962711,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">372.98578852545</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.893909064658,-6.17590825428701,0 106.893563629792,-6.17559454303079,0 106.893128311363,-6.17519976032632,0 106.891919289331,-6.17408943397001,0 106.891446960024,-6.17360653012616,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">611.137293938759</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.891154397841,-6.17336331578144,0 106.89035073305,-6.17283811379068,0 106.889094292,-6.17209843899997,0 106.886434363,-6.17049681499998,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">887.528489060999</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.886133865,-6.17030811799998,0 106.881962232,-6.16770688399993,0 106.88058338596,-6.166930472606,0 106.880089907579,-6.16671193218031,0 106.879758572095,-6.16661676134977,0 106.879125862314,-6.16653921474711,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">678.861804010817</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.878505489493,-6.16647224268117,0 106.877458610357,-6.16638764638736,0 106.87683471269,-6.16641584515196,0 106.876196715641,-6.16657446320286,0 106.875502321062,-6.16676128001837,0 106.875028229333,-6.16691813564648,0 106.874041272571,-6.1672036481381,0 106.873350402839,-6.16740103949034,0 106.872792404,-6.16761524299994,0 106.87271347,-6.16764116399997,0 106.872635185,-6.16766990199994,0 106.872566498,-6.16769486799995,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">1335.8917220896</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.87238094,-6.16776916499992,0 106.868100627,-6.16976654699994,0 106.866238343,-6.17060814199994,0 106.863879142777,-6.17172073774322,0 106.862405757326,-6.17242218201276,0 106.861439949639,-6.17286983740086,0 106.861439949639,-6.17286983740086,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">919.558913125422</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861059266317,-6.17306017906194,0 106.859603505094,-6.17360653012616,0 106.8592925,-6.17371330599997,0 106.858584824722,-6.17388146808105,0 106.85783755746,-6.17401541221292,0 106.855796671872,-6.17431854893242,0 106.854524202619,-6.1744947912112,0 106.852937833,-6.17460973499993,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">37.6661720575514</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.852602513,-6.17463230799996,0 106.852263055489,-6.17465657267331,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">434.419247985515</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.851316634452,-6.17472530716204,0 106.849175343,-6.17488333099993,0 106.847400971623,-6.1749964999685,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">52.3321813279689</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842843245,-6.17801071899993,0 106.84246159,-6.17829007599994,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">484.7818764919</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.841555455842,-6.17807655409301,0 106.840882210337,-6.17727465172456,0 106.840339384118,-6.17659611895126,0 106.839831806355,-6.17600570731735,0 106.839306604365,-6.17543115748853,0 106.83906339002,-6.17515621953364,0 106.838867283,-6.17493382699996,0 106.838705685,-6.17474889199997,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">111.147919353893</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.830234253,-6.17266897899998,0 106.830423552909,-6.17255201956183,0 106.830793661694,-6.17237225243748,0 106.831124997178,-6.17220658469542,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">84.4336066562363</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.831726979,-6.17195472199995,0 106.832404516122,-6.171603836102,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">43.4384691434115</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.832739376452,-6.17143816835995,0 106.833088336164,-6.17125840123559,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">50.9121958998065</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.832913856308,-6.16995244594984,0 106.832705890419,-6.16954180144028,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">70.4537652284893</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.832462676074,-6.16908709636103,0 106.832166589046,-6.16852312106894,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">500.127663472045</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.831184919553,-6.16805079176181,0 106.830869445874,-6.16811952625053,0 106.830509911625,-6.16817944862532,0 106.830220874288,-6.1682534703824,0 106.830012908399,-6.16826756976471,0 106.829417209497,-6.16813715047841,0 106.826761964,-6.16757124599997,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">94.4119719890313</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.82632768235,-6.1674885788925,0 106.825824510644,-6.16739340806196,0 106.825488162,-6.16733757699996,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">456.879067361373</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.825253485661,-6.16733701053275,0 106.823878795886,-6.16744275590002,0 106.823512211946,-6.16749915342923,0 106.822757894993,-6.16759432425977,0 106.822264593,-6.16763664199993,0 106.821704952,-6.16763048799993,0 106.821141931,-6.16764628099997,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">296.678009495653</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.832159812,-6.17988744199994,0 106.832322122856,-6.18039414005895,0 106.832433689,-6.18067585199998,0 106.832622769,-6.18118920299997,0 106.832752154017,-6.18150799126083,0 106.832850849693,-6.18172829410931,0 106.833025205,-6.18203777499997,0 106.833120500379,-6.18217330586322,0 106.833240345129,-6.18232575543437,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">195.33868188789</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.835141118106,-6.18223675308359,0 106.835608160144,-6.18207989745547,0 106.836189759664,-6.18187898125766,0 106.836549293913,-6.18167982748264,0 106.836764309493,-6.18155998273307,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">173.492703182389</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.837152923718,-6.18141810769866,0 106.838055035,-6.18120514899994,0 106.838444779621,-6.18107267283225,0 106.838656270356,-6.18098455169286,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">90.2681432059303</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.841167722828,-6.1791604441075,0 106.841830393797,-6.1786845899548,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">34.2915739277053</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842279371002,-6.17832747903743,0 106.842522585347,-6.17813537495356,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">1506.82267176962</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.847672384733,-6.17488722975566,0 106.849078798117,-6.17479910861627,0 106.849420708138,-6.17477443469724,0 106.852893157,-6.17451230599994,0 106.853932028563,-6.17443134399084,0 106.854594699531,-6.17436084707933,0 106.855422449463,-6.17426466361015,0 106.856072151463,-6.17417037561013,0 106.856783628633,-6.17407885943328,0 106.85780583385,-6.17389909230893,0 106.858588349568,-6.17376162333148,0 106.859268644764,-6.173599480435,0 106.85958235602,-6.17350078475889,0 106.861073365699,-6.17290861070219,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,4</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">84.1869622847728</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.908939603389,-6.18347040394891,0 106.90919837608,-6.18326313831761,0 106.909537222,-6.18299946399998,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">1325.50854855023</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861432899948,-6.17273589326899,0 106.86233878526,-6.17230938695434,0 106.86383684463,-6.17162909175825,0 106.865451223904,-6.17087477480508,0 106.866977482038,-6.17015570630766,0 106.868687032142,-6.16937319058988,0 106.87118262281,-6.16820294185878,0 106.872299998857,-6.16769888894147,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">684.443288487996</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.872550262893,-6.16759138115142,0 106.873371551912,-6.16729529412307,0 106.874037747726,-6.16709790277084,0 106.875028229333,-6.16680181574249,0 106.875673276073,-6.16659384985353,0 106.876124456307,-6.1664528560305,0 106.876536863239,-6.16635416035439,0 106.876815326039,-6.16629776282518,0 106.87746037278,-6.16627661375173,0 106.87853545068,-6.16636473489111,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">145.781226231837</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.905563085343,-6.18004906662693,0 106.906038939495,-6.18023235859686,0 106.906606439633,-6.18042270025795,0 106.90680030614,-6.18050024686061,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">900.726960496748</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.879217508299,-6.16644756876214,0 106.879793820551,-6.16653216505596,0 106.880132205726,-6.16662381104092,0 106.880438867291,-6.16676480486394,0 106.881136786715,-6.16712081426708,0 106.881788883147,-6.16745567459676,0 106.882299985755,-6.16776233616184,0 106.883262268597,-6.16836508475526,0 106.88481320065,-6.16931679306067,0 106.886353558167,-6.1702508771382,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">597.951803750604</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.886575623438,-6.17039187096122,0 106.889847417,-6.17235185699997,0 106.891197273,-6.17319180699997,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">377.445947451503</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.89154162,-6.17349237799993,0 106.892017985007,-6.1739907382939,0 106.89252556277,-6.174438393682,0 106.894000710643,-6.17585538160338,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">258.527773324373</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.894633420424,-6.17637882117135,0 106.895262605359,-6.17695689584575,0 106.895812481269,-6.17747152329979,0 106.896286011,-6.17787579699996,0 106.89636940687,-6.17794209018413,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">1049.84101397039</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.896423160765,-6.17796323925758,0 106.896577372759,-6.17804254828303,0 106.896760688,-6.17805971,0 106.897547586504,-6.17807867795018,0 106.898234597,-6.17812297099994,0 106.898760133382,-6.17815974939842,0 106.899143718,-6.17818362399993,0 106.899514450335,-6.17820909723648,0 106.900272292134,-6.17827606930241,0 106.900966686712,-6.17832894198605,0 106.901548286232,-6.17846641096349,0 106.903208488498,-6.17911850739498,0 106.904435134758,-6.17960141123883,0 106.905563085343,-6.18004906662693,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">37.1963971214846</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.852937833,-6.17460973499993,0 106.852602513,-6.17463230799996,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">193.240393136357</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.90680030614,-6.18050024686061,0 106.90729378452,-6.18072231213187,0 106.907815461665,-6.18100782462349,0 106.908351238193,-6.18130038680626,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,4</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">192.242601221729</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.909537222,-6.18299946399998,0 106.909651633,-6.18289487799996,0 106.909777332,-6.18278432699998,0 106.909861225,-6.1827042,0 106.909906521,-6.18264293099998,0 106.909946351,-6.18255672399994,0 106.909947993239,-6.18250059672475,0 106.909920969423,-6.18244302424702,0 106.909838723026,-6.18236665259288,0 106.909685979718,-6.18229263083579,0 106.909255948557,-6.18207409041011,0 106.909039758029,-6.18196129535169,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">1,2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">69.926053647641</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.820882407764,-6.16721906722638,0 106.821070546406,-6.16782269706001,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">1,2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">79.9857168263598</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.822690213025,-6.17111490298476,0 106.822944001919,-6.17121712351133,0 106.823046222445,-6.17132991857514,0 106.823084995748,-6.17141099002724,0 106.823118481783,-6.1714955863251,0 106.82311671936,-6.17161190623464,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">103.362882269756</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.909039758029,-6.18196129535169,0 106.908280741281,-6.18141670671026,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">34.2663682859245</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.906715709846,-6.18059541769115,0 106.906430197354,-6.18047557294158,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">38.5886285027532</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.897901621,-6.1782192699999,0 106.897553384,-6.17820210399998,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">86.3137660688982</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.894503001138,-6.17641406962711,0 106.893909064658,-6.17590825428701,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">42.0938959774005</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.891446960024,-6.17360653012616,0 106.891154397841,-6.17336331578144,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">39.2747578289111</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.886434472,-6.17049681499998,0 106.886393642,-6.17047146899995,0 106.886133823,-6.17030816299996,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">69.0609318181132</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.879125862314,-6.16653921474711,0 106.878505489493,-6.16647224268117,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">22.6923082767041</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.872571402,-6.16769320399993,0 106.87238094,-6.16776916499992,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">47.0988013446261</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861059266317,-6.17306017906194,0 106.861439949639,-6.17286983740086,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">105.023381254916</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.852263055489,-6.17465657267331,0 106.851316634452,-6.17472530716204,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">644.970350665862</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.847400971623,-6.1749964999685,0 106.845590928,-6.17515439499994,0 106.845277825,-6.17529419399995,0 106.845098862,-6.17547028399997,0 106.844686611,-6.17597374,0 106.843882514,-6.17705892699996,0 106.843345515,-6.17762947699993,0 106.84284123,-6.17801282699998,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">118.441271583534</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842460536,-6.17829124,0 106.842314355,-6.17836844899995,0 106.842167786,-6.17842625799994,0 106.841983173,-6.17842300199993,0 106.841801829,-6.17834811799997,0 106.841555455842,-6.17807655409301,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">1731.17881669834</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.838705685,-6.17474889199997,0 106.838694936,-6.17473732899998,0 106.838319193,-6.17429671,0 106.838207733756,-6.1742807360138,0 106.838094938698,-6.17431245962398,0 106.837865823736,-6.17449927643949,0 106.837206677613,-6.17507030142273,0 106.83663565263,-6.17551795681083,0 106.836462935197,-6.17564485125155,0 106.836323415,-6.17565645199994,0 106.836217541,-6.17561734699996,0 106.836096351257,-6.1755073822741,0 106.835755134,-6.17506447799997,0 106.835572471083,-6.17484933766571,0 106.835396228804,-6.17457439971082,0 106.835160064151,-6.17418314185193,0 106.835032288499,-6.17396900748321,0 106.834944167359,-6.17379629005001,0 106.834875432871,-6.17366234591814,0 106.83476792508,-6.1734667169887,0 106.834669229404,-6.17334334739355,0 106.834524710736,-6.17310718273998,0 106.834429539905,-6.17300496221829,0 106.834302645465,-6.17295208953466,0 106.834186325561,-6.17296971376254,0 106.83397130998,-6.17316710511477,0 106.833705184139,-6.1734367558013,0 106.833493693405,-6.17368525741438,0 106.833278677825,-6.17394080871861,0 106.833102435546,-6.17416639883545,0 106.832957916877,-6.17435674049653,0 106.832781674599,-6.17463872814258,0 106.832721752224,-6.17485021887711,0 106.832697078305,-6.17513220652316,0 106.832651255312,-6.17566798305065,0 106.832616006857,-6.17593234646882,0 106.832577233555,-6.17602046760821,0 106.832341068902,-6.17612621297547,0 106.832062606101,-6.17616146143123,0 106.831766363,-6.1762037199999,0 106.831573037,-6.17624539599996,0 106.831568987,-6.17624303899993,0 106.831211723,-6.17628447799996,0 106.831109276,-6.17627984099994,0 106.830998102737,-6.17621433411486,0 106.830938180363,-6.1761367875122,0 106.830508622,-6.17469182199994,0 106.83039988,-6.17431599299994,0 106.830254360321,-6.17379981489559,0 106.83001315,-6.17315994799998,0 106.830002907,-6.17293703199994,0 106.830041217,-6.17283269799998,0 106.830135,-6.17274906099993,0 106.830234146,-6.17266902499995,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">72.2139881824532</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.831124997178,-6.17220658469542,0 106.831726979,-6.17195472199995,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">41.3428533294248</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.832404516122,-6.171603836102,0 106.832739376452,-6.17143816835995,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">115.175202598642</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.833088336164,-6.17125840123559,0 106.833288469,-6.17116111199994,0 106.833361388,-6.17100011,0 106.833342125045,-6.17084423188046,0 106.833245191792,-6.17065389021938,0 106.833132396733,-6.17040715102909,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">55.7994897434304</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.833132396733,-6.17040715102909,0 106.832913856308,-6.16995244594984,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">57.0364767148927</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.832705890419,-6.16954180144028,0 106.832522598449,-6.16919989141945,0 106.832462676074,-6.16908709636103,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">128.012760906701</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.832166589046,-6.16852312106894,0 106.832032644914,-6.16831868002555,0 106.831775331187,-6.1681812110481,0 106.831526815,-6.16805528899994,0 106.831345300027,-6.16804726691623,0 106.831184919553,-6.16805079176181,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">48.9277021678921</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.826761964,-6.16757124599997,0 106.82632768235,-6.1674885788925,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">25.973932314571</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.825488162,-6.16733757699996,0 106.825253485661,-6.16733701053275,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">70.9723147920421</SimpleData>
+		<SimpleData name="Sisi">Selatan</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.821141931,-6.16764628099997,0 106.820981102615,-6.16762469131417,0 106.820776473292,-6.16753223077987,0 106.820633906139,-6.16732128775295,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">316.455577627339</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.830580078082,-6.17905095359181,0 106.830472570292,-6.1789363961106,0 106.830439084259,-6.17886061193072,0 106.830435617,-6.17878001499997,0 106.830486784,-6.17866561099993,0 106.830595844,-6.17858713799995,0 106.830710553,-6.17862456199992,0 106.830858540883,-6.17875839140903,0 106.831151103065,-6.1790509535918,0 106.831323820499,-6.17916022380464,0 106.831427803443,-6.17919723468319,0 106.831704503821,-6.17919899710598,0 106.831914921,-6.17920910499993,0 106.831970628,-6.17923037799994,0 106.832020787,-6.17941880699993,0 106.832047359,-6.17953836399994,0 106.832159589,-6.17988773299993,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">227.730919864603</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.833240345129,-6.18232575543437,0 106.833371645627,-6.18246058077763,0 106.833504361,-6.18254071499996,0 106.833674782346,-6.18261391156017,0 106.833773924,-6.18261640399993,0 106.833951482724,-6.18261214913739,0 106.83423347037,-6.18256985099048,0 106.834589479773,-6.18245353108648,0 106.835141118106,-6.18223675308359,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">45.8657267928087</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.836764309493,-6.18155998273307,0 106.836867924,-6.18151028099993,0 106.837152923718,-6.18141810769866,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">343.968440554502</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.838656270356,-6.18098455169286,0 106.838959407075,-6.18082945848754,0 106.840924508484,-6.1793331615407,0 106.841167722828,-6.1791604441075,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">63.473269151916</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.841830393797,-6.1786845899548,0 106.842279371002,-6.17832747903743,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">716.73423220232</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.842522585347,-6.17813537495356,0 106.842917274,-6.17785513799993,0 106.843296288951,-6.1775238142462,0 106.843802826,-6.17696448299995,0 106.844184604,-6.17652116299996,0 106.844837624,-6.17563438699994,0 106.845037588,-6.17541995099998,0 106.845206755253,-6.17525028884994,0 106.845555714965,-6.17507228414838,0 106.847672384733,-6.17488722975566,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">44.1393007978286</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.861073365699,-6.17290861070219,0 106.861432899948,-6.17273589326899,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">30.1427716555478</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.872299998857,-6.16769888894147,0 106.872550262893,-6.16759138115142,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">76.0436714775406</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.87853545068,-6.16636473489111,0 106.879217508299,-6.16644756876214,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">29.1064996300253</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.886353558167,-6.1702508771382,0 106.886575623438,-6.17039187096122,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">50.570277627342</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.891197273,-6.17319180699997,0 106.89154162,-6.17349237799993,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">90.8543355334421</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.894000710643,-6.17585538160338,0 106.894633420424,-6.17637882117135,0 106.894633420424,-6.17637882117135,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">6.39254610900224</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.89636940687,-6.17794209018413,0 106.896423160765,-6.17796323925758,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">97.2551175388881</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.908351238193,-6.18130038680626,0 106.908534530163,-6.18143080609256,0 106.908686098523,-6.18152950176868,0 106.908749545743,-6.18159647383461,0 106.908788589819,-6.1816705479522,0 106.908812963226,-6.18186924775097,0 106.908815603679,-6.18196637638561,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">1,2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">38.5924238575224</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.823044460022,-6.17427492719411,0 106.823040935177,-6.17462388692275,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>1081</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">20.7640775421114</SimpleData>
+		<SimpleData name="Sisi">Timur</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.908765629032,-6.18345656687773,0 106.908823897562,-6.1834910073836,0 106.908873155495,-6.18349421115159,0 106.908939603389,-6.18347040394891,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Tambah</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">547.496086626694</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.830580078082,-6.17905095359181,0 106.830818005158,-6.17927037522889,0 106.830904363875,-6.17935320909991,0 106.830967811095,-6.179427230857,0 106.831038308007,-6.17954355076099,0 106.831083249788,-6.17967308883589,0 106.831091180691,-6.17990660985528,0 106.831062981926,-6.1800194049137,0 106.83102773347,-6.18009342667078,0 106.830936087485,-6.18014277450884,0 106.830745745824,-6.18016392358229,0 106.829755264217,-6.1802062217292,0 106.828260729693,-6.18025909441283,0 106.827764556928,-6.18028055937873,0 106.827342507421,-6.18030227377113,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Tambah 2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Separator</SimpleData>
+		<SimpleData name="Panjang">181.398299270207</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.824358725641,-6.18039744460167,0 106.824904112915,-6.18039151321461,0 106.825997414127,-6.18036715749454,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Tambah 3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">149.04342461511</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.825997414127,-6.18036715749454,0 106.827342507421,-6.18030227377113,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Tambah</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">154.048987845153</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.824358725641,-6.18039744460167,0 106.823727261196,-6.18041851302279,0 106.823196407813,-6.18043093063464,0 106.823120513481,-6.18036594129435,0 106.823057439,-6.18026000299994,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>9658</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">27.5417698541098</SimpleData>
+		<SimpleData name="Sisi">Barat</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.820065524763,-6.16477546791446,0 106.820078388657,-6.16465073191157,0 106.820108500114,-6.16462133739326,0 106.820188894364,-6.16460803774163,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>14968</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,3,8</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">32.8387671477222</SimpleData>
+		<SimpleData name="Sisi">Utara</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.820188894364,-6.16460803774163,0 106.820243284735,-6.16462563903009,0 106.820280565587,-6.16466578764046,0 106.820332216927,-6.16484334401423,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#2">
+		<SimpleData name="Koridor">2,4</SimpleData>
+		<SimpleData name="Keterangan">Non-Separator</SimpleData>
+		<SimpleData name="Panjang">173.485282803045</SimpleData>
+		<SimpleData name="Sisi">Barat</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>106.908815603679,-6.18196637638561,0 106.90881925969,-6.18202998452545,0 106.908824134371,-6.18209480424103,0 106.908827790382,-6.18218022086346,0 106.908822915701,-6.18226503168059,0 106.908785136919,-6.18241526795184,0 106.908691908636,-6.18248614553274,0 106.908650473843,-6.18254975361007,0 106.908636256022,-6.18260790955979,0 106.908646005385,-6.18269918207911,0 106.908669566346,-6.18287607302302,0 106.908680940603,-6.18297865358896,0 106.908697189541,-6.18306386813846,0 106.908706938904,-6.18318502624206,0 106.90872643763,-6.18335464754048,0 106.908765629032,-6.18345656687773,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
